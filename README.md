@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba ben Bünyamin</h1>
-<h3 align="center">Fırat Üniversitesi Yazılım Mühendisliği son sınıf Öğrencisiyim Mobil(Android) programlama üzerine çalışıyorum.</h3>
+<h3 align="center">Android Developer-Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bunyaminkiremit&label=Profile%20views&color=0e75b6&style=flat" alt="bunyaminkiremit" /> </p>
 

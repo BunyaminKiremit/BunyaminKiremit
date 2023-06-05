@@ -8,6 +8,7 @@
 <a href="https://twitter.com/bunyaminkiremit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bunyaminkiremit" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bunyaminkiremit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bunyaminkiremit" height="30" width="40" /></a>
 <a href="https://instagram.com/bunyamin_kiremit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bunyamin_kiremit" height="30" width="40" /></a>
+<a href="https://medium.com/@bunyaminkiremit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bunyaminkiremit" height="30" width="40" /></a>
 <a href="https://discord.gg/Bünyamin Kiremit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bünyamin Kiremit" height="30" width="40" /></a>
 </p>
 
